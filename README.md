@@ -1,5 +1,5 @@
 
-# Server Boiler Plate Project
+# Smart Attendance Server Project
 
 This is a server-side code for setting up a Node.js server in Express.js and use MongoDB. This project contains sample APIs for common user account generation and login.
 
